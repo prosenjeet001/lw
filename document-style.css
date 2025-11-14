@@ -1,0 +1,27 @@
+.hero-section .carousel-item img{
+    height: 400px;
+    opacity: 0.3;
+}
+
+.hero-section .carousel-caption p{
+    margin-bottom: 50px;
+    font-weight: 900;
+    font-size: 44px;
+    background-color: rgb(220, 231, 231);
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+
+
+.photography-section img{
+    height: 400px;
+}
+
+.form-section .card h5, p {
+  
+}
+
+.form-section .card h5{
+    margin-top: 17px;
+}
